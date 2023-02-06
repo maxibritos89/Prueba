@@ -1,0 +1,43 @@
+*{
+    color: brown;
+}
+p{
+    color: red;
+    width: 300px;
+}
+/**
+asi se realiza un comentario en css
+*/
+h1{
+    font-family: 'Noto Sans', sans-serif;
+    border: 1px solid black;
+    padding: 30px 15px 25px 20px;
+    margin: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #mi_parrafo{
+    color: aqua;
+    font-size: 30px;
+    border: 2px solid coral;
+  }
+.mi_clase{
+    font-weight: bold;
+    color: chartreuse;
+}
+
+/*
+section h1 {
+    font-size: 40px;
+    color: darkslategrey;
+}
+*/
+
